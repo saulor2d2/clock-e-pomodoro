@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Relógio UI Design</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+    <div id="clock">
+        <h2>QUE HORAS SÃO?</h2>
+        <div id="time">
+            <div><span id="hour">00</span><span>Horas</span></div>
+            <div><span  class="span"id="minutos">00</span><span id="s1">Minutos</span></div>
+            <div><span id="segundos">00</span><span>Segundos</span></div>
+        </div>
+    </div>
+   
+</body>
+</html>
